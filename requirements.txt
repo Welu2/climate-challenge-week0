@@ -2,4 +2,4 @@ pandas
 numpy
 pytest
 streamlit
-nplotly
+plotly
