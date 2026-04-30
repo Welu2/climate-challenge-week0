@@ -1,1 +1,3 @@
-pandas\nnumpy\npytest
+pandas
+numpy
+pytest
